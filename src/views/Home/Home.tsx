@@ -5,8 +5,7 @@ import {
   Grid,
   Button,
   Container,
-  Typography,
-  Tooltip,
+  Typography  
 } from '@mui/material';
 
 const Home = () => {
